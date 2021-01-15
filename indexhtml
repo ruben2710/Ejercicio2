@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head> 
+   <meta charset="utf-8">
+   <title>Ejercicio 2.2: Receta</title>
+ </head> 
+ <body>
+  <h2>Un zumo de naranja
+  </h2>
+  <form method=”POST” action=”(https://www.lr21.com.uy/wpcontent/uploads/2017/05/que-beneficios-se-obtienen-al-consumir-naranja.jpg”>
+  </form>
+  <ol>
+   <li>2 naranjas y un exprimidor</li>
+   <li>cortar las naranjas por la mitad y exprimirlas</li>
+  </ol>
+  <p>Recuerda que el zumo de naranja natural recién exprimido tiene una larga lista de beneficios para tu salud</p>
+ </body>
+</html>
